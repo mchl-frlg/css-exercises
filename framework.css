@@ -58,6 +58,21 @@
   width: 100%;
 }
 
+.navbar-container {
+  position: fixed;
+  float: right;
+  width: 100%;
+}
+
+.navbar-list {
+  text-align: center;
+}
+
+.nav-menu {
+  display: inline;
+  margin: 4%;
+}
+
 * {
   -webkit-box-sizing: border-box;
   -moz-box-sizing: border-box;
